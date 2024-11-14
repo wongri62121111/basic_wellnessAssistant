@@ -1,3 +1,10 @@
+/*
+	Name : Richard Wong
+	Course : CMPSC 330
+	Project : Basic Wellness Assistant 
+	Date : 11/14/2024
+*/
+
 #include <iostream>
 #include <string>
 #include <iomanip>
